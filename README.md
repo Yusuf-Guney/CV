@@ -3,7 +3,7 @@
 ## 🚀 Hakkımda  
 Merhaba! Ben **Yusuf Güney**, **Bursa Teknik Üniversitesi Bilgisayar Mühendisliği** öğrencisiyim. Yazılım geliştirme ve yeni teknolojileri öğrenmeye büyük bir ilgi duyuyorum. Özellikle **savunma sanayi, siber güvenlik, bulut bilişim, yapay zeka ve Nesnelerin İnterneti (IoT)** alanlarında kendimi geliştirmeye devam ediyorum.  
 
-Teknolojiyi yakından takip ediyor, farklı projeler geliştirerek bilgi birikimimi artırmaya çalışıyorum. Açık kaynak projelere katkıda bulunmayı ve yeni teknolojilerle çalışarak deneyim kazanmayı hedefliyorum. Bu hesapta, geliştirdiğim projeleri, öğrendiğim yeni şeyleri ve yazılım dünyasındaki çalışmalarımı paylaşıyorum.  
+Takım çalışmasına uyumlu, yeniliğe açık ve öğrenme isteği yüksek biri olarak, yeni teknolojileri keşfetmeyi ve farklı projelerde aktif rol almayı hedefliyorum. Teknolojiyi yakından takip ediyor, geliştirdiğim projelerle bilgi birikimimi artırmaya çalışıyorum. Açık kaynak projelere katkıda bulunmayı ve iş odaklı çözümler geliştirmeyi önemsiyorum.  
 
 Daha detaylı bilgiler için yukarıdaki **CV** belgeme bakabilirsiniz.  
 
