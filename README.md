@@ -1,14 +1,8 @@
-# 💻 Yusuf Güney  
-
-## 🚀 Hakkımda  
-Merhaba! Ben **Yusuf Güney**, **Bursa Teknik Üniversitesi Bilgisayar Mühendisliği** öğrencisiyim. Yazılım geliştirme ve yeni teknolojileri öğrenmeye büyük bir ilgi duyuyorum. Özellikle **savunma sanayi, siber güvenlik, bulut bilişim, yapay zeka ve Nesnelerin İnterneti (IoT)** alanlarında kendimi geliştirmeye devam ediyorum.  
-
-Takım çalışmasına uyumlu, yeniliğe açık ve öğrenme isteği yüksek biri olarak, yeni teknolojileri keşfetmeyi ve farklı projelerde aktif rol almayı hedefliyorum. Teknolojiyi yakından takip ediyor, geliştirdiğim projelerle bilgi birikimimi artırmaya çalışıyorum. Açık kaynak projelere katkıda bulunmayı ve iş odaklı çözümler geliştirmeyi önemsiyorum.  
-
-Daha detaylı bilgiler için yukarıdaki **CV** belgeme bakabilirsiniz.  
-
-## 📫 İletişim  
-📧 E-posta: yusufguney.100919@gmail.com  
-📞 Telefon: 542 423 45 85  
-🔗 LinkedIn: [linkedin.com/in/yusuf-guney](https://www.linkedin.com/in/yusuf-guney/)  
-🔗 GitHub: [github.com/Yusuf-Guney](https://github.com/Yusuf-Guney)  
+ABOUT ME
+ Hello, I’m Yusuf. I am 21 years old and a 3rd-year Computer Engineering student at Bursa 
+Technical University. I have a strong interest in cloud computing and aim to improve myself in 
+this field. I see cloud computing as a technology of the future, and I’m particularly drawn to its 
+flexibility, scalability, and ever-evolving nature. In line with this, I have been participating in 
+various training programs to enhance my knowledge. I am a responsible individual who is open 
+to learning, works well in a team, and is eager to explore new technologies. I strive to complete 
+every task I take on in the best possible way.In addition, I am actively working to improve my
